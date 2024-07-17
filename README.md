@@ -1,6 +1,19 @@
-Prepare disk for installation
 First step is to verify system compatibility
-Verify system compatibility
+Verify system compatibility: Verify that the system is compatible with the operating system to be installed. Is there space on the hard drive? Is there enough memory? Processor speed? Graphics Processing Unit (GPU)? and so on.
+
+The minimum requirements for Windows 11 are: 
+
+Central Processing Unit (CPU) - 1GHz or faster
+2 or more cores
+
+Storage- 64 GB or more
+
+RAM - 4 GB
+
+GPU - DirectX12 compatiblility or later with WDDM 2.0 driver
+
+Display - HD 720p display
+
 Backup existing data
 Locate application software and license keys
 Locate third-party drivers
